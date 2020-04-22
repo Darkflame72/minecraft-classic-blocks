@@ -65,139 +65,141 @@ function onModLoad() {
     // TODO
 
 
-    // emerald_ore
-    // emeralnd_block
-    // end_stone
-    // end_stone_bricks
-    // dead_fire_coral_blockfletching_table
-    // blast_furnaceglowstone
-    // gold_block
-    // gold_ore
-    // granite 
-    // grass_block_snow
-    // grass_path
-    // gray_concrete
-    // gray_concrete_powder
-    // gray_glazed_terracotta
-    // gray_terracotta 
-    // gray_wool
-    // green_concrete_powder
-    // green_concrete 
-    // green_glazed_terracotta
-    // green_terracotta 
-    // green_wool 
-    // hay_bale
-    // honey_block
-    // honeycomb_block
-    // horn_coral_block 
-    // ice 
-    // iron_block 
-    // jack_o_lantern
-    // jukebox
-    // jungle_log
-    // jungle_planks
-    // lapis_block
-    // lapis_ore
-    // light_blue_concrete
-    // light_blue_concrete_powder
-    // light_blue_glazed_terracotta
-    // light_blue_terracotta 
-    // light_blue_wool
-    // light_gray_concrete
-    // light_gray_concrete_powder
-    // light_gray_glazed_terracotta
-    // light_gray_terracotta 
-    // light_gray_wool
-    // lime_concrete
-    // lime_concrete_powder
-    // lime_glazed_terracotta
-    // lime_terracotta 
-    // lime_wool
-    // loom
-    // magenta_concrete
-    // magenta_concrete_powder
-    // magenta_glazed_terracotta
-    // magenta_terracotta 
-    // magenta_wool
-    // melon 
-    // mossy_cobblestone
-    // mossy_stone_bricks
-    // mushroom_stem
-    // mycellium
-    // nether_bricks
-    // nether_quartz_ore
-    // nether_wart_block
-    // netherrack 
-    // note_block
-    // oak_log 
-    // oak_planks 
-    // observer // nightmare
-    // obsidian
-    // orange_concrete
-    // orange_concrete_powder
-    // orange_glazed_terracotta
-    // orange_terracotta 
-    // orange_wool
-    // packed_ice
-    // pink_concrete
-    // pink_concrete_powder
-    // pink_glazed_terracotta
-    // pink_terracotta 
-    // pink_wool
-    // podzol
-    // polished_andesite
-    // polished_diorite
-    // polished_granite
-    // prismarine_bricks
-    // pumpkin
-    // purple_concrete
-    // purple_concrete_powder
-    // purple_glazed_terracotta
-    // purple_terracotta 
-    // purple_wool
-    // quartz_block
-    // quartz_pillar
-    // red_concrete
-    // red_concrete_powder
-    // red_glazed_terracotta
-    // red_terracotta 
-    // red_wool
-    // red_nether_bricks
-    // red_sand 
-    // red_sandstone 
-    // redstone_block
-    // redstone_lamp
-    // sandstone 
-    // scaffolding
-    // slime_block
-    // smithing_table
-    // smoker
-    // smooth_stone
-    // soul_sand
-    // sponge 
-    // spruce_log
-    // spruce_planks
-    // stone_bricks
-    // stripped_acacia_log
-    // stripped_birch_log
-    // stripped_dark_oak_log
-    // stripped_jungle_log
-    // stripped_dark_oak_log
-    // stripped_spruce_log
-    // terracotta 
-    // tnt 
-    // tube_coral_block 
-    // wet_sponge 
-    // white_concrete
-    // white_concrete_powder
-    // white_glazed_terracotta
-    // white_terracotta 
-    // white_wool
-    // yellow_concrete
-    // yellow_concrete_powder
-    // yellow_glazed_terracotta
-    // yellow_terracotta 
-    // yellow_wool
+    // emerald_ore = newBlock("emerald_ore",);
+    // emerald_block = newBlock("emeralnd_block",);
+    // end_stone = newBlock("end_stone",);
+    // end_stone_bricks = newBlock("end_stone_bricks",);
+    // dead_fire_coral_block = newBlock("dead_fire_coral_block",);
+    // fletching_table = newBlock("fletching_table",);
+    // blast_furnace = newBlock("blast_furnace",);
+    // glowstone = newBlock("glowstone",);
+    // gold_block = newBlock("gold_block",);
+    // gold_ore = newBlock("gold_ore",);
+    // granite  = newBlock("granite",);
+    // grass_block_snow = newBlock("",);
+    // grass_path = newBlock("",);
+    // gray_concrete = newBlock("",);
+    // gray_concrete_powder = newBlock("",);
+    // gray_glazed_terracotta = newBlock("",);
+    // gray_terracotta  = newBlock("",);
+    // gray_wool = newBlock("",);
+    // green_concrete_powder = newBlock("",);
+    // green_concrete  = newBlock("",);
+    // green_glazed_terracotta = newBlock("",);
+    // green_terracotta  = newBlock("",);
+    // green_wool  = newBlock("",);
+    // hay_bale = newBlock("",);
+    // honey_block = newBlock("",);
+    // honeycomb_block = newBlock("",);
+    // horn_coral_block  = newBlock("",);
+    // ice  = newBlock("",);
+    // iron_block  = newBlock("",);
+    // jack_o_lantern = newBlock("",);
+    // jukebox = newBlock("",);
+    // jungle_log = newBlock("",);
+    // jungle_planks = newBlock("",);
+    // lapis_block = newBlock("",);
+    // lapis_ore = newBlock("",);
+    // light_blue_concrete = newBlock("",);
+    // light_blue_concrete_powder = newBlock("",);
+    // light_blue_glazed_terracotta = newBlock("",);
+    // light_blue_terracotta  = newBlock("",);
+    // light_blue_wool = newBlock("",);
+    // light_gray_concrete = newBlock("",);
+    // light_gray_concrete_powder = newBlock("",);
+    // light_gray_glazed_terracotta = newBlock("",);
+    // light_gray_terracotta  = newBlock("",);
+    // light_gray_wool = newBlock("",);
+    // lime_concrete = newBlock("",);
+    // lime_concrete_powder = newBlock("",);
+    // lime_glazed_terracotta = newBlock("",);
+    // lime_terracotta  = newBlock("",);
+    // lime_wool = newBlock("",);
+    // loom = newBlock("",);
+    // magenta_concrete = newBlock("",);
+    // magenta_concrete_powder = newBlock("",);
+    // magenta_glazed_terracotta = newBlock("",);
+    // magenta_terracotta  = newBlock("",);
+    // magenta_wool = newBlock("",);
+    // melon  = newBlock("",);
+    // mossy_cobblestone = newBlock("",);
+    // mossy_stone_bricks = newBlock("",);
+    // mushroom_stem = newBlock("",);
+    // mycellium = newBlock("",);
+    // nether_bricks = newBlock("",);
+    // nether_quartz_ore = newBlock("",);
+    // nether_wart_block = newBlock("",);
+    // netherrack  = newBlock("",);
+    // note_block = newBlock("",);
+    // oak_log  = newBlock("",);
+    // oak_planks  = newBlock("",);
+    // observer = newBlock("",); // nightmare
+    // obsidian = newBlock("",);
+    // orange_concrete = newBlock("",);
+    // orange_concrete_powder = newBlock("",);
+    // orange_glazed_terracotta = newBlock("",);
+    // orange_terracotta  = newBlock("",);
+    // orange_wool = newBlock("",);
+    // packed_ice = newBlock("",);
+    // pink_concrete = newBlock("",);
+    // pink_concrete_powder = newBlock("",);
+    // pink_glazed_terracotta = newBlock("",);
+    // pink_terracotta  = newBlock("",);
+    // pink_wool = newBlock("",);
+    // podzol = newBlock("",);
+    // polished_andesite = newBlock("",);
+    // polished_diorite = newBlock("",);
+    // polished_granite = newBlock("",);
+    // prismarine_bricks = newBlock("",);
+    // pumpkin = newBlock("",);
+    // purple_concrete = newBlock("",);
+    // purple_concrete_powder = newBlock("",);
+    // purple_glazed_terracotta = newBlock("",);
+    // purple_terracotta  = newBlock("",);
+    // purple_wool = newBlock("",);
+    // quartz_block = newBlock("",);
+    // quartz_pillar = newBlock("",);
+    // red_concrete = newBlock("",);
+    // red_concrete_powder = newBlock("",);
+    // red_glazed_terracotta = newBlock("",);
+    // red_terracotta = newBlock("",); 
+    // red_wool = newBlock("",);
+    // red_nether_bricks = newBlock("",);
+    // red_sand  = newBlock("",);
+    // red_sandstone  = newBlock("",);
+    // redstone_block = newBlock("",);
+    // redstone_lamp = newBlock("",);
+    // sandstone  = newBlock("",);
+    // scaffolding = newBlock("",);
+    // slime_block = newBlock("",);
+    // smithing_table = newBlock("",);
+    // smoker = newBlock("",);
+    // smooth_stone = newBlock("",);
+    // soul_sand = newBlock("",);
+    // sponge  = newBlock("",);
+    // spruce_log = newBlock("",);
+    // spruce_planks = newBlock("",);
+    // stone_bricks = newBlock("",);
+    // stripped_acacia_log = newBlock("",);
+    // stripped_birch_log = newBlock("",);
+    // stripped_dark_oak_log = newBlock("",);
+    // stripped_jungle_log = newBlock("",);
+    // stripped_dark_oak_log = newBlock("",);
+    // stripped_spruce_log = newBlock("",);
+    // terracotta  = newBlock("",);
+    // tnt  = newBlock("",);
+    // tube_coral_block  = newBlock("",);
+    // wet_sponge  = newBlock("",);
+    // white_concrete = newBlock("",);
+    // white_concrete_powder = newBlock("",);
+    // white_glazed_terracotta = newBlock("",);
+    // white_terracotta  = newBlock("",);
+    // white_wool = newBlock("",);
+    // yellow_concrete = newBlock("",);
+    // yellow_concrete_powder = newBlock("",);
+    // yellow_glazed_terracotta = newBlock("",);
+    // yellow_terracotta  = newBlock("",);
+    // yellow_wool = newBlock("",);
 
     // Thanks to Name With Exactly 32 Characters!#4004 for this.
     newCommand("cmd",
