@@ -58,25 +58,25 @@ function onModLoad() {
     dead_fire_coral_block = newBlock("dead_fire_coral_block", "diaxwPr");
     dead_horn_coral_block = newBlock("dead_horn_coral_block", "5gMJHQz");
     dead_tube_coral_block = newBlock("dead_tube_coral_block", "03FQ30q");
-    diamond_block = newBlock("diamond_block", "WatiJLr");
-    diamond_ore = newBlock("diamond_ore", "WatiJLr");
-    diorite = newBlock("diorite", "WatiJLr");
+    diamond_block = newBlock("diamond_block", "65QvTRp");
+    diamond_ore = newBlock("diamond_ore", "6jCQufl");
+    diorite = newBlock("diorite", "EumjG4l");
+    emerald_ore = newBlock("emerald_ore","WTPoQXd");
+    emerald_block = newBlock("emeralnd_block","kZlf7cG");
+    end_stone = newBlock("end_stone","gn9o97v");
+    end_stone_bricks = newBlock("end_stone_bricks","GX797qp");
+    dead_fire_coral_block = newBlock("dead_fire_coral_block","diaxwPr"); //unsure if correct coral
+    fletching_table = newBlock("fletching_table",["UgLaAiN","UgLaAiN","byxg0pK","byxg0pK","rdxavH9","rdxavH9"]);
+    blast_furnace = newBlock("blast_furnace",["BDzIBCG","BDzIBCG","Rlwgnn8","Rlwgnn8","BDzIBCG","nt6bjTj"]);
+    glowstone = newBlock("glowstone","dknnI3L");
+    gold_block = newBlock("gold_block","aw3IbDO");
+    gold_ore = newBlock("gold_ore","018onwm");
+    granite  = newBlock("granite","cWMlaTX");
+    grass_block_snow = newBlock("grass_block_snow",["8InUwPb","45yLMDF","2gBUkZs"]);
     
-    // TODO
-
-
-    // emerald_ore = newBlock("emerald_ore",);
-    // emerald_block = newBlock("emeralnd_block",);
-    // end_stone = newBlock("end_stone",);
-    // end_stone_bricks = newBlock("end_stone_bricks",);
-    // dead_fire_coral_block = newBlock("dead_fire_coral_block",);
-    // fletching_table = newBlock("fletching_table",);
-    // blast_furnace = newBlock("blast_furnace",);
-    // glowstone = newBlock("glowstone",);
-    // gold_block = newBlock("gold_block",);
-    // gold_ore = newBlock("gold_ore",);
-    // granite  = newBlock("granite",);
-    // grass_block_snow = newBlock("",);
+    //TODO
+    
+    
     // grass_path = newBlock("",);
     // gray_concrete = newBlock("",);
     // gray_concrete_powder = newBlock("",);
